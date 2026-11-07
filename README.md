@@ -91,6 +91,14 @@ Fokus kerja saya adalah membuat perangkat lunak yang tetap berguna pada kondisi 
   <img src="https://ghchart.rshah.org/1f6f43/arifrenggy" alt="Kalender kontribusi setahun terakhir" width="820" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifrenggy/arifrenggy/output/ular-gelap.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifrenggy/arifrenggy/output/ular-terang.svg" />
+    <img src="https://raw.githubusercontent.com/arifrenggy/arifrenggy/output/ular-terang.svg" alt="Ular berjalan di grafik kontribusi" width="820" />
+  </picture>
+</div>
+
 ---
 
 ## Aktivitas terbaru
