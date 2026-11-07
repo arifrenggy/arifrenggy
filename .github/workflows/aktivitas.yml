@@ -1,0 +1,21 @@
+name: Perbarui aktivitas terbaru
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aktivitas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tulis aktivitas ke README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Aktivitas terbaru diperbarui otomatis"
+          MAX_LINES: 8
