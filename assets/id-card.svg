@@ -55,7 +55,7 @@
   </g>
 
   <text x="196" y="106" class="nama" font-size="25">Kurniawan Arif Renggi</text>
-  <text x="196" y="130" class="nilai" style="fill:#8b949e;font-size:12.5px">Full Stack Developer &middot; Teknik Informatika</text>
+  <text x="196" y="130" class="nilai" style="fill:#8b949e;font-size:12.5px">Full Stack Developer &#183; Teknik Informatika</text>
 
   <g>
     <text x="196" y="163" class="kunci">npm run</text>
@@ -68,10 +68,10 @@
   <text x="196" y="225" class="nilai">Waingapu, Sumba Timur</text>
 
   <text x="430" y="205" class="label">FOKUS</text>
-  <text x="430" y="225" class="nilai">Web &middot; Android &middot; Machine Learning</text>
+  <text x="430" y="225" class="nilai">Web &#183; Android &#183; Machine Learning</text>
 
   <text x="196" y="255" class="label">TUMPUKAN UTAMA</text>
-  <text x="196" y="275" class="nilai">Laravel &middot; React &middot; Flutter &middot; TensorFlow Lite</text>
+  <text x="196" y="275" class="nilai">Laravel &#183; React &#183; Flutter &#183; TensorFlow Lite</text>
 
   <g>
     <rect x="628" y="243" width="158" height="32" rx="8" fill="#0f1b14" stroke="#238636"/>
