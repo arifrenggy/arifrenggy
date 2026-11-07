@@ -2,38 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=Kurniawan+Arif+Renggi;Full+Stack+Developer;Teknik+Informatika+%E2%80%A2+UNKRISWINA+Sumba;Membangun+GeoSiaga+%26+SIDEPI" alt="Kurniawan Arif Renggi" />
 
-</div>
-
-<div align="center">
-  <img src="./assets/id-card.svg?v=2" width="820" alt="Kartu identitas Kurniawan Arif Renggi" />
-</div>
-
-<div align="center">
+<img src="./assets/id-card.svg?v=2" width="820" alt="Kartu identitas Kurniawan Arif Renggi" />
 
 [![Profil dilihat](https://komarev.com/ghpvc/?username=arifrenggy&style=for-the-badge&color=1f6f43&label=PROFIL+DILIHAT)](https://github.com/arifrenggy)
 [![Pengikut](https://img.shields.io/github/followers/arifrenggy?style=for-the-badge&label=PENGIKUT&color=1f6f43)](https://github.com/arifrenggy?tab=followers)
 [![Repo publik](https://img.shields.io/badge/REPO-PUBLIK-1f6f43?style=for-the-badge&logo=github)](https://github.com/arifrenggy?tab=repositories)
 
 </div>
-
----
-
-## Profil singkat
-
-Mahasiswa Teknik Informatika di Universitas Kristen Wira Wacana Sumba (UNKRISWINA). Sehari-hari membangun aplikasi web dan Android, dengan minat khusus pada sistem yang dipakai di lapangan: pemantauan lingkungan, identifikasi penyakit tanaman, dan alat bantu kerja bagi petugas daerah.
-
-Fokus kerja saya adalah membuat perangkat lunak yang tetap berguna pada kondisi nyata di daerah, yaitu jaringan terbatas, perangkat kelas menengah, dan pengguna yang bukan teknisi.
-
----
-
-## Proyek unggulan
-
-| Proyek | Ringkasan | Tumpukan | Status |
-| :--- | :--- | :--- | :--- |
-| **[GeoSiaga](https://github.com/arifrenggy/GeoSiaga)** | Pemantauan lingkungan dan mitigasi bencana dengan data resmi BMKG, PVMBG, NASA FIRMS, dan Open-Meteo | React 19, Vite, Leaflet, Node | Rilis aktif |
-| **[SIDEPI](https://github.com/arifrenggy/sidepi-app)** | Identifikasi penyakit dan hama padi untuk petugas lapangan, bekerja tanpa internet | Flutter, TensorFlow Lite, sistem pakar | Rilis aktif |
-| **[portfolio-cms](https://github.com/arifrenggy/portfolio-cms)** | Situs portofolio dengan panel admin Filament, seluruh isi dikelola dari dasbor | Laravel 12, Filament v5, SQLite | Rilis aktif |
-| **[Oncall Bali](https://honeymassagebali.shop)** | Situs layanan home service untuk klien spa di Bali, dikelola sampai sekarang | Laravel, MySQL, Railway | Produksi klien |
 
 ---
 
@@ -104,8 +79,73 @@ Fokus kerja saya adalah membuat perangkat lunak yang tetap berguna pada kondisi 
 ## Aktivitas terbaru
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SIDEPI v0.1.0](https://github.com/arifrenggy/sidepi-app/releases/tag/v0.1.0) in [arifrenggy/sidepi-app](https://github.com/arifrenggy/sidepi-app)
 <!--END_SECTION:activity-->
+
+---
+
+## Proyek unggulan
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 GeoSiaga
+
+Platform pemantauan lingkungan dan mitigasi bencana dengan data resmi BMKG, PVMBG, NASA FIRMS, dan Open-Meteo. Peta geospasial, indeks kesehatan lingkungan, dan peringatan dini dalam satu dasbor.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Buka_repo-1f6f43?style=flat-square&logo=github&logoColor=white)](https://github.com/arifrenggy/GeoSiaga)
+[![Situs](https://img.shields.io/badge/geosiaga.vercel.app-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://geosiaga.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 SIDEPI
+
+Identifikasi penyakit dan hama padi untuk petugas lapangan. Model citra dua tahap berjalan di dalam ponsel, dipadukan dengan sistem pakar 42 ciri, tanpa koneksi internet.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Buka_repo-1f6f43?style=flat-square&logo=github&logoColor=white)](https://github.com/arifrenggy/sidepi-app)
+[![Situs](https://img.shields.io/badge/Situs_proyek-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://arifrenggy.github.io/sidepi-app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ portfolio-cms
+
+Situs portofolio dengan panel admin Filament. Seluruh isi halaman, proyek, keahlian, dan menu dikelola dari dasbor tanpa menyentuh kode.
+
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament_v5-FDAE4B?style=flat-square&logo=laravel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Buka_repo-1f6f43?style=flat-square&logo=github&logoColor=white)](https://github.com/arifrenggy/portfolio-cms)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛎️ Oncall Bali
+
+Situs layanan home service untuk klien spa di Bali. Dikerjakan dari nol, dikelola sampai sekarang, dan dipakai untuk menerima pesanan langsung dari pelanggan.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+[![Situs](https://img.shields.io/badge/honeymassagebali.shop-1f6f43?style=flat-square&logo=googlechrome&logoColor=white)](https://honeymassagebali.shop)
+
+</td>
+</tr>
+</table>
 
 ---
 
