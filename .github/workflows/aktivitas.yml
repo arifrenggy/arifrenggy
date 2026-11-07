@@ -12,6 +12,9 @@ jobs:
   aktivitas:
     runs-on: ubuntu-latest
     steps:
+      - name: Ambil isi repositori
+        uses: actions/checkout@v4
+
       - name: Tulis aktivitas ke README
         uses: jamesgeorge007/github-activity-readme@master
         env:
