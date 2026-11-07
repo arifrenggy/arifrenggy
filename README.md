@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=Kurniawan+Arif+Renggi;Full+Stack+Developer;Teknik+Informatika+%E2%80%A2+UKWMS+Waingapu;Membangun+GeoSiaga+%26+SIDEPI" alt="Kurniawan Arif Renggi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=Kurniawan+Arif+Renggi;Full+Stack+Developer;Teknik+Informatika+%E2%80%A2+UNKRISWINA+Sumba;Membangun+GeoSiaga+%26+SIDEPI" alt="Kurniawan Arif Renggi" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## Profil singkat
 
-Mahasiswa Teknik Informatika di Universitas Katolik Widya Mandala Surabaya, Kampus Waingapu. Sehari-hari membangun aplikasi web dan Android, dengan minat khusus pada sistem yang dipakai di lapangan: pemantauan lingkungan, identifikasi penyakit tanaman, dan alat bantu kerja bagi petugas daerah.
+Mahasiswa Teknik Informatika di Universitas Kristen Wira Wacana Sumba (UNKRISWINA). Sehari-hari membangun aplikasi web dan Android, dengan minat khusus pada sistem yang dipakai di lapangan: pemantauan lingkungan, identifikasi penyakit tanaman, dan alat bantu kerja bagi petugas daerah.
 
 Fokus kerja saya adalah membuat perangkat lunak yang tetap berguna pada kondisi nyata di daerah, yaitu jaringan terbatas, perangkat kelas menengah, dan pengguna yang bukan teknisi.
 
