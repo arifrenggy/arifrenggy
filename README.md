@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/id-card.svg" width="820" alt="Kartu identitas Kurniawan Arif Renggi" />
+  <img src="./assets/id-card.svg?v=2" width="820" alt="Kartu identitas Kurniawan Arif Renggi" />
 </div>
 
 <div align="center">
