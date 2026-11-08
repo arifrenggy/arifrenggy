@@ -64,6 +64,7 @@
 ## Aktivitas terbaru
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [SIDEPI v0.1.0](https://github.com/arifrenggy/sidepi-app/releases/tag/v0.1.0) in [arifrenggy/sidepi-app](https://github.com/arifrenggy/sidepi-app)
 <!--END_SECTION:activity-->
 
 ---
